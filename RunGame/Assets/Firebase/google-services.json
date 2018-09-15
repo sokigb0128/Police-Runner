@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "762135405310",
+    "firebase_url": "https://rungameranking.firebaseio.com",
+    "project_id": "rungameranking",
+    "storage_bucket": "rungameranking.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:762135405310:android:2da76507fc77acc6",
+        "android_client_info": {
+          "package_name": "com.Hoxon.RunGame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "762135405310-v3et28qdel48beb82v904rig6sb49j1t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-5Xh024Mj4UmAtMk9xIGPPv_E8iDCmYI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,14 @@
+{
+    "Name": "Flash",
+    "Enable": true,
+    "Conponents":
+    [
+        {
+            "ComponentType": "Flash",
+            "ModelFileName": "data/Texture/Effect/Laser5.ext.png",
+            "Position": [ 0.0, 1.0, 0.0 ],
+            "Rotation": [ 0.0, 0.0, 0.0 ],
+            "Scaling": [ 0.3, 0.3, 0.3 ]
+        }
+    ]
+}
